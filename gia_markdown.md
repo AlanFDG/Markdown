@@ -40,7 +40,7 @@ writingf('Hola Mundo');
 # Comparacion de HTML/CSS y Markdown
 Teniendo en referencia que es mi punto de vista al usar los dos lenguajes al escribir texto en ellos mismos.
 
-| HTML y CSS                                                               | Markdown                                                                           |   |   |   |
+| HTML y CSS                                                               | Markdown                                                                           
 |--------------------------------------------------------------------------|------------------------------------------------------------------------------------|---|---|---|
 | Se tiene que poner en etiquetas para expecificar lo que quieres realizar | En este lenguaje solo debes conocer ciertos caracteres que especifican cada cosa   |  
 | La colocacion de imagenes es similar pero usando etiquetas               | En este se usa su sintaxis especifico en ![]() o puedes usar la etiqueta de html.  |
