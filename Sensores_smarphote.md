@@ -1,4 +1,5 @@
 # Sensor que tiene mi Smarphote
+En este caso son todos los sensores que tiene mi smarphone como se muestra en las imagenes son todos los sensores y es malo que no me muestre los que no puede monstrar los que no estan disponidles los sensores en el telefono.  
 ![](./imagen/img1.png)
 
 ## Los que tiene son
@@ -13,4 +14,3 @@
 - Sensor de Sonido  
 ![](./imagen/img-sonido.png)
 
-En este caso son todos los sensores que tiene mi smarphone como se muestra en las imagenes son todos los sensores y es malo que no me muestre los que no puede monstrar los que no estan disponidles los sensores en el telefono.
